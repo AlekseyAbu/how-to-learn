@@ -2,5 +2,8 @@
     height: 620px;
     width: 608px;
     margin-right: 20px;
-    object-fit: contain;
+    object-fit: cover;
+    object-position: left top;
 }
+
+/*Я не очень понял как подогнать эти значения, в брифе они не заданы */

@@ -7,5 +7,5 @@
     top: 0;
     max-width: 877px;
     height: 877px;
-    animation: move_square 20s linear infinite normal;
+    animation: move_triangle 20s linear infinite normal;
 }
