@@ -1,0 +1,9 @@
+.resources__logo{
+    height: 38px;
+    width: 270px;
+    /*Если я тут укажу max-width, то логотипы прижмутся друг к другу*/
+}
+
+.resources__logo:hover{
+    opacity: 0.6;
+}
